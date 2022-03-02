@@ -229,6 +229,11 @@ picture {
 
 @media screen and (min-width: 800px) {
 
+    .desktop-view-text {
+        max-width: 70%;
+        margin: 0 auto;
+    }
+
     .container__section--button {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
