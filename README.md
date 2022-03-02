@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-clipboard-landing-page-wNiRZEh20)
+- Live Site URL: [Live Demo](https://ilhanhakan-koc.github.io/frontend_clipboard-landing-page/)
 
 ## My process
 
